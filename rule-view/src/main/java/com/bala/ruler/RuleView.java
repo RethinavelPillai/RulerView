@@ -1,5 +1,4 @@
-package com.zjun.widget;
-
+package com.bala.ruler;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -17,6 +16,11 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.widget.Scroller;
+
+import com.zjun.widget.BuildConfig;
+import com.zjun.widget.R;
+
+
 
 /**
  * GradationView
