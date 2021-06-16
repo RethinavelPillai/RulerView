@@ -36,13 +36,7 @@ For weight and Height Calculation. I had modified the library.
     android:layout_height="70dp"
     app:zjun_textSize="18sp" />
   
-<com.zjun.widget.MoneySelectRuleView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content" />
-  
-<com.zjun.widget.TimeRuleView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content" />
+ 
  ```
  
 ### 4.2 监听回调
