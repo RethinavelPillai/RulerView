@@ -9,17 +9,8 @@
 > RuleView:
 
 ![ruleGif](https://github.com/zjun615/RuleView/blob/master/img/ruleView.gif)
-
-> MoneySelectRuleView:
-
-![moneyGif](https://github.com/zjun615/RuleView/blob/master/img/money.gif)
-
-> TimeRuleView:
-
-![timeGif](https://github.com/zjun615/RuleView/blob/master/img/time.gif)
-
-
  
+
 
 ### 1. RuleView
  
